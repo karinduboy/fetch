@@ -1,24 +1,31 @@
 {
-    "name":"",
-    "cvTitle":"",
+    "name":"Karin Duboy",
+    "cvTitle":"Jr Web Developer",
     "cvDescription":"",
     "social":[
-        {"name":"", "link":""}
+        {"name":"LinkedIn", "link":"https://www.linkedin.com/in/karin-duboy"},
+        {"name":"Behance", "link":"https://www.behance.net/karinduboy"}    
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"FrontEnd Developer", "institution":"ADA-ITW (Argentina)", "endYear":"2019", "description":"Desarrollo FrontEnd, con HTML5, CSS3, Sass, JS, NodeJS, JSON, Reac"},
+        {"title":"Máster en Diseño Gráfico y Animación Web", "institution":"CICE-Madrid (España)", "endYear":"2012", "description":"Fundamentos de Diseño Gráfico e Imagen Corporativa, Animación Web, usando: Adobe Ai, Id, Ps, Fl"},
+        {"title":"Ingeniero de Sistemas", "institution":"UNEFA (Venezuela)", "endYear":"1999", "description":"Análisis y Resolución de situaciones de forma programática."}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"HTML5", "level":"Intermedio"},
+        {"title":"CSS3", "level":"Intermedio"},
+        {"title":"Sass", "level":"Intermedio"},
+        {"title":"JS", "level":"Intermedio"},
+        {"title":"Illustrator", "level":"Avanzado"},
+        {"title":"InDesign", "level":"Avanzado"},
+        {"title":"Photoshop", "level":"Avanzado"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"First Blog", "sutitle":"A new experience", "excerpt":"Cupcake ipsum dolor sit amet marshmallow powder icing wafer. Gingerbread cake lollipop cupcake cheesecake liquorice ice cream topping carrot cake. Dessert cake wafer macaroon macaroon marshmallow caramels cookie.", "text":"Cupcake ipsum dolor sit amet marshmallow powder icing wafer. Gingerbread cake lollipop cupcake cheesecake liquorice ice cream topping carrot cake. Dessert cake wafer macaroon macaroon marshmallow caramels cookie. Chupa chups lemon drops marzipan cupcake. Cookie cupcake sweet sweet roll pie gummies sweet gummi bears danish. Gummies tiramisu cotton candy bonbon. Chocolate bar candy canes danish toffee cotton candy sweet wafer jelly-o tiramisu.", "images":"https://picsum.photos/200"},
+        {"title":"Second Blog", "sutitle":"Another way", "excerpt":"Lorem ipsum dolor amet sriracha keytar swag, cred ramps tattooed before they sold out VHS artisan brooklyn pour-over bushwick chicharrones distillery. Exercitation migas ad est godard deep v. Vinyl copper mug bitters sriracha chartreuse pug austin. Locavore food truck fixie, intelligentsia dolore in velit consequat yr est laboris keffiyeh live-edge kogi. Wolf woke disrupt in lumbersexual, succulents asymmetrical consequat. Hot chicken pitchfork duis laborum etsy poutine commodo.", "text":"Deep v la croix bicycle rights typewriter. Art party YOLO fingerstache lumbersexual mumblecore, fam yr listicle letterpress subway tile put a bird on it. Godard bushwick williamsburg kinfolk coloring book, heirloom seitan tousled. Migas taiyaki microdosing forage, squid af whatever jean shorts lo-fi venmo. Organic bitters pinterest four dollar toast +1 man bun. Crucifix tote bag lyft, vexillologist fixie chia VHS PBR&B franzen celiac. Trust fund squid pour-over raclette tattooed, hexagon salvia food truck succulents yuccie everyday carry plaid fam. Art party woke selfies tote bag tousled messenger bag. Chambray farm-to-table whatever pinterest irony. Pabst cliche 3 wolf moon kale chips scenester cred direct trade umami tilde biodiesel flexitarian shoreditch. Tacos retro jianbing la croix, normcore air plant banh mi. Umami hella chartreuse cloud bread fam affogato church-key pug seitan tilde hammock occupy cray. Oh. You need a little dummy text for your mockup? How quaint.", "images":"https://picsum.photos/200"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"+54-9-11-6845 3047",
+        "email":"karinduboy@gmail.com"
     }
 }
